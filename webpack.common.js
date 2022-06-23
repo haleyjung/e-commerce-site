@@ -40,6 +40,6 @@ module.exports = {
 
   output: {
     filename: 'bundle.js',
-    path: '/Users/haleyjung/Documents/_HACKREACTOR/2022-02_Immersive/FEC/FEC/client/dist',
+    path: '/Users/haleyjung/Documents/PROJECTS/2022/e-commerce-site/dist',
   }
 };
