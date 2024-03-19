@@ -1,10 +1,10 @@
 <div id="top"></div>
 
-# Front End Capstone
+# E-Commerce Web App & RESTful API
 
 ## Overview
 
-Front End Capstone is an e-commerce site built with React and Express, following a business requirements document and an API provided by the project stakeholders. Working as a team of four engineers, the first phase of our development was becoming acclimated to utilizing project management and ticket management tools, including the Git Feature Branch Workflow and Trello. For the consistency of the codebase, we implemented [Airbnb Style Guide](https://github.com/airbnb/javascript). We adapted an agile scrum methodology and held daily standup to keep track of each member's progress on the sub-components of the product. The main strengths of this storefront are a cohesive user experience, clear and easy-to-read usability as well as its sleek and modern design. Our team challenged ourselves by learning new technologies, including styled-components and React Hooks, within a day of the sprint planning session.
+This is an e-commerce site built with React and Express, following a business requirements document and an API provided by the project stakeholders. Working as a team of four engineers, the first phase of our development was becoming acclimated to utilizing project management and ticket management tools, including the Git Feature Branch Workflow and Trello. For the consistency of the codebase, we implemented [Airbnb Style Guide](https://github.com/airbnb/javascript). We adapted an agile scrum methodology and held daily standup to keep track of each member's progress on the sub-components of the product. The main strengths of this storefront are a cohesive user experience, clear and easy-to-read usability as well as its sleek and modern design. Our team challenged ourselves by learning new technologies, including styled-components and React Hooks, within a day of the sprint planning session.
 
 ## Products API
 
@@ -210,7 +210,7 @@ npm run react-dev
 
 ## Deployment
 
-The site is currently deployed in AWS EC2, which can be accessed [here](http://ec2-184-72-149-44.compute-1.amazonaws.com/).
+The site was previously deployed in AWS EC2.
 
 ![status up](https://napkin-examples.npkn.net/site-status-badge/)
 
